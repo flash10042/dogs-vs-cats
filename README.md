@@ -6,3 +6,4 @@ Model result after 40 epochs:
 loss - 0.1399, acc - 0.9419,
 val_loss - ~0.12, val_acc - ~0.91
 ```
+
